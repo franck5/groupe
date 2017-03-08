@@ -1,5 +1,6 @@
 .contenu {
 	text-align: center;
+	font-family: Times;
 }
 
 .contact {
@@ -16,7 +17,21 @@
 	margin-right: auto;
 	margin-left: auto;
 	width: 50%;
-	text-align: center;
+	text-align: justify;
 	font-size: 40px;
 	
+	
+}
+
+.titre {
+	font-size: 60px;
+	color: blue;
+}
+
+.soustitre {
+	font-size: 40px;
+}
+
+.text {
+	font-size: 20px;
 }
