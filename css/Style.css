@@ -11,6 +11,11 @@
 }
 
 .liens {
+	float: right;
+	line-height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
 	text-align: center;
 	font-size: 40px;
 	
